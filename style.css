@@ -64,3 +64,9 @@ button{
     top: 0px;
     right: 5px;
 }
+
+@media screen and (max-width: 475px){
+    .popup{
+        width: 80vw;
+    }
+}
